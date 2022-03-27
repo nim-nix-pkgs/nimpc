@@ -11,6 +11,7 @@
   inputs.src-NiMPC-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-NiMPC-v0_2_0.owner = "markspanbroek";
   inputs.src-NiMPC-v0_2_0.repo  = "nimpc";
+  inputs.src-NiMPC-v0_2_0.dir   = "";
   inputs.src-NiMPC-v0_2_0.type  = "github";
   
   inputs."sysrandom".owner = "nim-nix-pkgs";
