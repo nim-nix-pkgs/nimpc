@@ -11,7 +11,6 @@
   inputs.src-NiMPC-master.ref   = "refs/heads/master";
   inputs.src-NiMPC-master.owner = "markspanbroek";
   inputs.src-NiMPC-master.repo  = "nimpc";
-  inputs.src-NiMPC-master.dir   = "";
   inputs.src-NiMPC-master.type  = "github";
   
   inputs."sysrandom".owner = "nim-nix-pkgs";
